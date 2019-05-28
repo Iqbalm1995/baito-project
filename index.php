@@ -1,5 +1,5 @@
 <?php
-// Baito-Project
+// Baito-Project - Index Team
 
 /**
  * CodeIgniter
